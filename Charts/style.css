@@ -1,0 +1,13 @@
+body{
+	padding: 12px;
+	max-width: 100%;
+	width:98%;
+}
+
+#copyRight{
+	color: #adadFF;
+	width: 100%;
+	text-align: center;
+	font-size: 12px;
+	position: fixed;
+}
